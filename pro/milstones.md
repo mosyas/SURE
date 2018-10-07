@@ -1,0 +1,67 @@
+least func to sell
+linux 
+encypted partition for the code
+get the code from remote server
+
+
+
+PAM / monitoring / config manager / NPM / Automation
+
+way to go TiT0
+
+list of devices
+exception handling
+date
+final report
+
+
+
+
+P0)create Results dir for each device if not exist
+p1)hostname
+p2)vendor idntify
+p3)multi-threading
+
+
+test read only user
+parsing text
+Device info (version, model, serial ... etc)
+SNMP
+trusted hosts
+configuration best practices
+search for access path and confirm if access exist or which part is missing
+close all unused interfaces
+ensure specific config
+object names correction/duplication
+Linux Light Hardened
+License per device 
+
+
+csv file contanins path for last successful backup file
+0) rename empty file
+multi-threading
+1) hostname
+2) different passwords / encrypt passwords / password expiration
+3) create Results dir if not exist
+4) compress and encrypt
+5) device type
+6) differences
+7) gui
+8) 
+9) draw network
+10) clean up
+11) user mgmt (add / remove / change pass / sync / check)
+12) access opening / configuration changes
+13) OOP / classes
+14) network discovery
+15) user priv mgmt
+16) guacmole
+17) managed / monitored environment
+18) restore to current device
+19) restore to new devices
+20) ability to manage all historical backups
+21) templates
+22) On-Demand SOC services
+23) unify config between branches
+24) last time password changed
+25) easy password generator
