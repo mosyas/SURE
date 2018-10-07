@@ -1,0 +1,11 @@
+model
+s/n
+hosname
+os ver
+HA
+VDoms infos
+h/w (cpu, mem, hdd, top)
+NICs
+VPNs
+Routes
+Users
