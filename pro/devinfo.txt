@@ -1,7 +1,8 @@
 model
 s/n
-hosname
+hostname
 os ver
+uptime
 HA
 VDoms infos
 h/w (cpu, mem, hdd, top)
@@ -9,3 +10,5 @@ NICs
 VPNs
 Routes
 Users
+logins
+admin ports
