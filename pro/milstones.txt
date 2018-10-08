@@ -3,6 +3,10 @@ linux
 encypted partition for the code
 get the code from remote server
 
+time to schedule the backup
+compare run with saved
+run a specific command
+
 
 
 PAM / monitoring / config manager / NPM / Automation
@@ -35,6 +39,8 @@ ensure specific config
 object names correction/duplication
 Linux Light Hardened
 License per device 
+admin ports
+
 
 
 csv file contanins path for last successful backup file
