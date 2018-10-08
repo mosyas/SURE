@@ -9,7 +9,11 @@ h/w (cpu, mem, hdd, top)
 NICs
 VPNs
 Routes
-Users
-logins
+admin Users
+admin logins
 admin ports
+all admin settings
 updates (a/v, wf, ips ....)
+difference between run & saved
+revisions / number of saved configs
+trusted hosts
