@@ -6,7 +6,7 @@ get the code from remote server
 time to schedule the backup
 compare run with saved
 run a specific command
-retry failed devices
+retry failed backups
 
 
 
